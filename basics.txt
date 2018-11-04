@@ -1,0 +1,3 @@
+Reuire is used to load all the built in modules
+
+Os module to fetch things and file module to create a new file
