@@ -1,3 +1,8 @@
 console.log("Starting app.");
 const fs =require('fs');
-fs.appendFile('greetings.txt','HelloWorld');
+const os =require('os');
+
+var user = os.userInfo();
+console.log('user');
+
+//fs.appendFile('greetings.txt','HelloWorld');
