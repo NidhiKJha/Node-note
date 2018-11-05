@@ -11,4 +11,4 @@ const notes = require('./notes.js');
 
 
 //fs.appendFileSync('greetings.txt','Hello' + user.username);
-fs.appendFileSync('greetings.txt',`hello ${user.username}`);
+fs.appendFileSync('greetings.txt',`hello ${user.username} You are ${notes.age}.`);
