@@ -9,4 +9,5 @@ var user = os.userInfo();
 
 
 
-fs.appendFileSync('greetings.txt','Hello' + user.username);
+//fs.appendFileSync('greetings.txt','Hello' + user.username);
+fs.appendFileSync('greetings.txt',`hello ${user.username}`);
