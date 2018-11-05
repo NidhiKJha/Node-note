@@ -1,2 +1,2 @@
 console.log("notes.js");
-console.log(module);
+module.exports.age = 25;
