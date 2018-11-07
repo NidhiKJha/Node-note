@@ -1,3 +1,4 @@
 Reuire is used to load all the built in modules
 
 Os module to fetch things and file module to create a new file
+In node if we want to access a file it will go through ./path
