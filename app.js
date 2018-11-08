@@ -8,4 +8,4 @@ const _=require('lodash');
 
 const notes = require('./notes.js');
 var command = process.argv[2];
-console.log(process.argv);
+console.log('Command: ', command);
