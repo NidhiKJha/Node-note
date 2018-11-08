@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NidhiKJha/Node-note/issues"
   },
-  "homepage": "https://github.com/NidhiKJha/Node-note#readme"
+  "homepage": "https://github.com/NidhiKJha/Node-note#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
