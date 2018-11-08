@@ -7,9 +7,9 @@ const _=require('lodash');
 
 //var user = os.userInfo();
 const notes = require('./notes.js');
-
-console.log(_.isString(true));
-console.log(_.isString('Andrew'));
+var filteredArray = _.uniq(["andrew" , 1 , "Andrew" , 1 , 2 , 3 ,4]);
+//console.log(_.isString(true));
+//console.log(_.isString('Andrew'));
 
 //var res = notes.addNote();
 
