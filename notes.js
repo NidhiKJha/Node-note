@@ -6,4 +6,5 @@ module.exports.addnote = () => {
 
 module.exports.add = (a,b) =>{
 return a + b;
+console.log("sum");
 };
