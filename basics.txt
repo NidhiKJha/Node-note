@@ -13,3 +13,5 @@ It defines third party module that we are going to use in this application.
 .isString is  amodule in lodash to check if the string is passed or not
 uniq takes an array  and returns an array without duplicacy.
 F command is used to find the required modules
+
+Never install nodemodules files because they are overwritten when you commit them on github
