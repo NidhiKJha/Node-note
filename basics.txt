@@ -15,3 +15,4 @@ uniq takes an array  and returns an array without duplicacy.
 F command is used to find the required modules
 
 Never install nodemodules files because they are overwritten when you commit them on github
+nodemon is responsible for the changes we made and to overwrite those  changes
