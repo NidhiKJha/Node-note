@@ -8,6 +8,9 @@ const _=require('lodash');
 //var user = os.userInfo();
 const notes = require('./notes.js');
 
+console.log(_.isString(true));
+console.log(_.isString('Andrew'));
+
 //var res = notes.addNote();
 
-console.log('Result:', notes.add(9, -2));
+//console.log('Result:', notes.add(9, -2));
