@@ -1,0 +1,19 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NidhiKJha/Node-note.git"
+  },
+  "author": "lol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NidhiKJha/Node-note/issues"
+  },
+  "homepage": "https://github.com/NidhiKJha/Node-note#readme"
+}

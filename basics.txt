@@ -1,0 +1,11 @@
+Reuire is used to load all the built in modules
+
+Os module to fetch things and file module to create a new file
+In node if we want to access a file it will go through ./path
+
+Module is a variable 
+
+In project folder (npm= node package manager) npm -v finds version.
+npm init is gonna initialise npm
+Its gonna cfreate a file name package.json
+It defines third party module that we are going to use in this application.
