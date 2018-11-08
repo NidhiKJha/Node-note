@@ -5,5 +5,5 @@ module.exports.addnote = () => {
 };
 
 module.exports.add = (a,b) =>{
-return a + b;  
+return a + b;
 };
