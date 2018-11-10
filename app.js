@@ -18,6 +18,10 @@ if (command === 'add'){
   console.log('Listing all notes');
 } else if (command ==="read"){
   console.log("Reading node");
+} else if (command ==="remove"){
+  console.log("Removing note");
+}
+
 }
 else{
   console.log("Command not recogonised");
