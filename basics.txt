@@ -17,4 +17,4 @@ F command is used to find the required modules
 Never install nodemodules files because they are overwritten when you commit them on github
 nodemon is responsible for the changes we made and to overwrite those  changes
 
-To get the input we need to get the title as well as the body of the node.
+To get the input we need to get the title as well as the body of the node.i/o, Real time api
