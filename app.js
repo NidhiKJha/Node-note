@@ -16,7 +16,10 @@ if (command === 'add'){
 
 }else if (command === 'list'){
   console.log('Listing all notes');
-} else{
+} else if (command ==="read"){
+  console.log("Reading node");
+}
+else{
   console.log("Command not recogonised");
 }
 
