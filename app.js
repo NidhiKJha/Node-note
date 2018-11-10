@@ -7,7 +7,9 @@ const _=require('lodash');
 
 
 const notes = require('./notes.js');
-var command = process.argv[2];
+console.log(process.argv);
+
+/*var command = process.argv[2];
 console.log('Command: ', command);
 if (command==='add'){
   console.log("Adding new note");
@@ -16,5 +18,5 @@ if (command==='add'){
   console.log('Listing all notes');
 
 }else {
-  console.log("Command not recogonised");
+  console.log("Command not recogonised"); */
 }
