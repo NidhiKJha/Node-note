@@ -22,3 +22,4 @@ To get the input we need to get the title as well as the body of the node.i/o, R
 node app.js command list all the programs running in node files
 
 while ls command tells you the list of files included in git folder
+argv sstand for argument vector
