@@ -16,6 +16,8 @@ if (command === 'add'){
 
 }else if (command === 'list'){
   console.log('Listing all notes');
+} else{
+  console.log("Command not recogonised")
 }
 
 /*var command = process.argv[2];
