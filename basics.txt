@@ -23,3 +23,4 @@ node app.js command list all the programs running in node files
 
 while ls command tells you the list of files included in git folder
 argv sstand for argument vector
+$ node app.js remove --title=secrets to remove or we can put the secrets in "" or with space as well
