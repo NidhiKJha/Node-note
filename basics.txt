@@ -14,7 +14,11 @@ It defines third party module that we are going to use in this application.
 uniq takes an array  and returns an array without duplicacy.
 F command is used to find the required modules
 
-Never install nodemodules files because they are overwritten when you commit them on github
+Never install nodemodules files because they are overwritten when you commitg them on github
 nodemon is responsible for the changes we made and to overwrite those  changes
 
 To get the input we need to get the title as well as the body of the node.i/o, Real time api
+
+node app.js command list all the programs running in node files
+
+while ls command tells you the list of files included in git folder
