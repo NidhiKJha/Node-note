@@ -11,7 +11,11 @@ var command = process.argv[2];
 console.log('Command:' , Command) ;
 
 if (command === 'add'){
-  
+  console.log('Adding new // NOTE: ');
+
+
+}else if (command === 'list'){
+  console.log('Listing all notes');
 }
 
 /*var command = process.argv[2];
