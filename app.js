@@ -12,7 +12,7 @@ const notes = require('./notes.js');
 const argv = yargs.argv;
 var command = process.argv[2];
 console.log('Command:', command) ;
-console.log(process.argv);
+console.log("Process",process.argv);
 
 if (command === 'add'){
   console.log('Adding new note ');
