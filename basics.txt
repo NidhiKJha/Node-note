@@ -25,3 +25,4 @@ while ls command tells you the list of files included in git folder
 argv sstand for argument vector
 $ node app.js remove --title=secrets to remove or we can put the secrets in "" or with space as well
  similarly there are commands like read and write
+ If I write add encrypted using yarg then both will be two different arguments
